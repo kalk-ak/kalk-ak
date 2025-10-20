@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb</h1>
-<h3 align="center">💻 I’m a Computer Science student at Johns Hopkins University, pursuing a combined BS/MS in Data Science with minors in Robotics and Computer Integrated Surgery. I’m passionate about systems programming and machine learning. Particularly the intersection of TinyML and robotics.</h3>
+<h3 align="center">I’m a Computer Science student at Johns Hopkins University, pursuing a combined BS/MS in Data Science with minors in Robotics and Computer Integrated Surgery. I’m passionate about systems programming and machine learning. Particularly the intersection of TinyML and robotics.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalk-ak" alt="kalk-ak" /></a> </p>
 
