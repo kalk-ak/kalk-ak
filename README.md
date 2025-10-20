@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,django,figma,git,java,js,linux,nodejs,opencv,pandas,postgres,py,pytorch,sklearn,tensorflow,ts&perline=9" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,django,figma,git,java,js,linux,neovim,nodejs,opencv,pandas,postgres,py,pytorch,sklearn,tensorflow,ts&perline=9" alt="My Skills"/>
   </a>
 </p>
 
