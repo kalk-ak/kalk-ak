@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,css,django,figma,git,html,java,js,linux,neovim,nodejs,opencv,pandas,postgres,py,pytorch,r,raspberrypi,sklearn,tensorflow,ts" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,css,django,figma,git,html,java,js,linux,neovim,nodejs,opencv,obsidian,pandas,postgres,py,pytorch,r,raspberrypi,sklearn,tensorflow,ts" alt="My Skills"/>
   </a>
 </p>
 
