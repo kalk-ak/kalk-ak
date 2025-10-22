@@ -14,8 +14,8 @@
 <a href="https://linkedin.com/in/kaleb-aklilu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleb-aklilu" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,css,django,figma,git,html,java,js,linux,neovim,nodejs,opencv,postgres,py,pytorch,r,raspberrypi,sklearn,tensorflow,ts" alt="My Skills"/>
   </a>
@@ -23,11 +23,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact" alt="kalk-ak" /></p>
 
-<h3 align="center">GitHub Stats and Activity</h3>
+<h3 align="center">GitHub Activity</h3>
 
-<p align="center">
-  
-  <a href="https://git.io/streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaleb's streak" src="https://streak-stats.demolab.com/?user=kalk-ak&theme=monokai-metallian&hide_border=true" height="192px"/></a>
 </p>
 
 <p align="center">
