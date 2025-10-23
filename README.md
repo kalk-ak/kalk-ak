@@ -21,7 +21,6 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact" alt="kalk-ak" /></p>
 
 <h3 align="center">GitHub Activity</h3>
 
