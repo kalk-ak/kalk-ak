@@ -14,14 +14,14 @@
 <a href="https://linkedin.com/in/kaleb-aklilu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleb-aklilu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,css,django,figma,git,html,java,js,linux,neovim,nodejs,opencv,postgres,py,pytorch,r,raspberrypi,sklearn,tensorflow,ts" alt="My Skills"/>
   </a>
 </p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact" alt="kalk-ak" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact" alt="kalk-ak" /></p>
 
 <h3 align="center">GitHub Activity</h3>
 
@@ -30,3 +30,6 @@
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kaleb's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kalk-ak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact" alt="kalk-ak" /></p>
+
