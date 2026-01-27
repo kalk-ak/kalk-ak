@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalk-ak" alt="kalk-ak" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing, Deep Learning, Computer Vision, Machine Translation**
+- 🌱 I’m currently learning **Natural Language Processing, Deep Learning, Information Extraction,Information Retrival, NLP for social science and Machine Translation.** 
 
 - 📫 How to reach me **kalebaklilu3@gmail.com**
 
