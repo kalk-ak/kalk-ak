@@ -24,14 +24,10 @@
 
 <h3 align="center">GitHub Activity</h3>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Kaleb's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kalk-ak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalk-ak&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="kalk-ak stats" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="kalk-ak languages" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kaleb's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kalk-ak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalk-ak&show_icons=true&locale=en&layout=compact" alt="kalk-ak" /></p>
